@@ -2,8 +2,8 @@ Rust Practice
 ---
 📖 Learn Rust:
 
-    Official Rust Book: doc.rust-lang.org/stable/book
-    Interactive Version: rust-book.cs.brown.edu (Recommended!)
+- Official Rust Book: <https://doc.rust-lang.org/stable/book/>  
+- Interactive Version: <https://rust-book.cs.brown.edu/> *(Recommended!)*  
 
 🚀 About This Repo:
 
