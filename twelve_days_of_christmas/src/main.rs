@@ -1,12 +1,9 @@
 fn main() {
-    let lines = [" twelve drummers drumming,"," eleven pipers piping,"," ten lords a-leaping,"," nine ladies dancing,"," eight maids a-milking,"," seven swans a-swimming,"," six geese a-laying,"," five gold rings,"," four calling birds,"," Three French hens,"," Two turtle doves, And"];
+    let lines = [" twelve drummers drumming,"," eleven pipers piping,"," ten lords a-leaping,"," nine ladies dancing,"," eight maids a-milking,"," seven swans a-swimming,"," six geese a-laying,"," five gold rings,"," four calling birds,"," Three French hens,"," Two turtle doves, And",""];
     let ordinal = ["first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth", "eleventh", "twelfth"];
-
+    let mut middle_part = String::new();
     for i in 0..12 {
-        let mut middle_part = String::new();
-        for j in 0..i {
-            middle_part = format!("{}{}",lines[10-j],middle_part);
-        }
+        middle_part = format!("{}{}",lines[11-i],middle_part);
         println!("On the {} day of Christmas my true love sent to me{} a partridge in a pear-tree",ordinal[i], middle_part);
     }
 }
