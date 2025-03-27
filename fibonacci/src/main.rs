@@ -17,7 +17,7 @@ fn main() {
             fibo = [fibo[1], fibo[2], fibo[1] + fibo[2]];
             //println!("{},{},{}",fibo[0],fibo[1],fibo[2]);
         }
-        println!("{}", fibo[2thi]);
+        println!("{}", fibo[2]);
         break;
     }
 }
