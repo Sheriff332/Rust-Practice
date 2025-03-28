@@ -1,1 +1,0 @@
-C:\Users\remot\OneDrive\Documents\Rust\ Practice\twelve_days_of_christmas\target\debug\twelve_days_of_christmas.exe: C:\Users\remot\OneDrive\Documents\Rust\ Practice\twelve_days_of_christmas\src\main.rs
