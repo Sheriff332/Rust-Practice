@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-primitive_types1
+structs1
 
 variables1
 variables2
@@ -19,3 +19,6 @@ if3
 quiz1
 move_semantics1
 move_semantics2
+move_semantics3
+move_semantics4
+move_semantics5
